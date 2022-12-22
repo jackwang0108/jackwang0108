@@ -94,7 +94,7 @@ View my blog website to know more about me 😄: <a href="http://jackwang.cafe" 
 ### <img src="https://img.icons8.com/dusk/64/null/maintenance.png" height="17" /> Tools
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=vim,vscode,arduino,raspberrypi,docker,ps,regex,git,github,linux,matlab,mysql,mongodb,nodejs,&theme=light&perline=20" />
+  <img src="https://skillicons.dev/icons?i=vim,vscode,arduino,raspberrypi,docker,ps,au,regex,git,github,linux,matlab,mysql,mongodb,sqlite,nodejs,&theme=light&perline=8" />
 </p>
 
 ### <img src="https://img.icons8.com/dusk/64/null/learn-more.png" height="17" /> Keep Learning
