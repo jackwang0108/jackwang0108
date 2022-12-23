@@ -5,9 +5,16 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jackwang0108&color=red&style=for-the-badge" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Paper%20Reading%20Machine-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research%20Workaholic-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding%20Fanatic-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffee%20Addict-orange?style=for-the-badge" />
 </p>
 
 
@@ -29,8 +36,8 @@
 
 **I'm a junior student majoring in CS, focusing on Deep Learning, Robotics and Operating System👨‍🎓**
 - 🔭 I'm currently working on beloved works.
-- 📃 I'm currently researching on attractive fieldss.
-- 🌱 I'm currently learning on interesting materials.
+- 📃 I'm currently researching on attractive fields.
+- 🌱 I'm currently learning on interesting topics.
 - 💬 Ask me about whatever you want to ask.
 - 📫 How to reach me: reach somewhere I reach.
 - 😄 Fun facts are very funny.
@@ -40,19 +47,27 @@ View my blog website to know more about me 😄: <a href="http://jackwang.cafe" 
 ## 👨‍💻 Highlight Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwang0108&repo=MyReadPaper&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwang0108&repo=JackOS&theme=onedark" />
+  <a href="https://github.com/jackwang0108/MyReadPaper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwang0108&repo=MyReadPaper&theme=onedark" />
+  </a>
+  <a href="https://github.com/jackwang0108/JackOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwang0108&repo=JackOS&theme=onedark" />
+  </a>
 <p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwang0108&repo=ResNet&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwang0108&repo=iCaLR&theme=onedark" />
+  <a href="https://github.com/jackwang0108/ResNet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwang0108&repo=ResNet&theme=onedark" />
+  </a>
+  <a href="https://github.com/jackwang0108/iCaLR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwang0108&repo=iCaLR&theme=onedark" />
+  </a>
 </p>
 
 
 
 
-## <img width=18px src="https://img.icons8.com/54ae50/paper"> Publications:
+## <img width=18px src="https://img.icons8.com/54ae50/paper"> Publications
 
 ### 2022: Sophomore
 
