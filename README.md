@@ -5,9 +5,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jackwang0108&color=red&style=for-the-badge" />
-</p>
 
 
 <p align="center">
@@ -43,6 +40,11 @@
 - 😄 Fun facts are very funny.
 
 View my blog website to know more about me 😄: <a href="http://jackwang.cafe" target="view_window">Home</a>, <a href="http://jackwang.cafe/about/">Brief-Intro</a>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jackwang0108&color=red&style=for-the-badge" />
+</p>
 
 ## 👨‍💻 Highlight Projects
 
