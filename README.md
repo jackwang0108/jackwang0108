@@ -37,7 +37,7 @@
 - 🌱 I'm currently learning on interesting topics.
 - 💬 Ask me about whatever you want to ask.
 - 📫 How to reach me: reach somewhere I reach.
-- 😄 Fun facts are very funny.
+- 😄 Fun facts about me are very funny.
 
 View my blog website to know more about me 😄: <a href="http://jackwang.cafe" target="view_window">Home</a>, <a href="http://jackwang.cafe/about/">Brief-Intro</a>
 
