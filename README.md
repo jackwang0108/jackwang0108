@@ -20,11 +20,17 @@
 <p align="center">
   <img width=300px src="https://user-images.githubusercontent.com/101782376/209062934-d36bc1b4-63e7-4b36-b194-791033ba6d01.png"/> &nbsp   
   <img width=300px src="https://user-images.githubusercontent.com/101782376/209063542-4662f07a-39b3-4e1e-8a30-26666bf4e344.png"/> &nbsp
-  <img width=300px src="https://user-images.githubusercontent.com/101782376/209064266-28081596-bf57-431d-88f7-8073c92e1893.png"/>
+  <img width=300px src="https://user-images.githubusercontent.com/101782376/209064266-28081596-bf57-431d-88f7-8073c92e1893.png"/> &nbsp
+</p>
+<p align="center">
+  <img width=300px src="https://github.com/jackwang0108/jackwang0108/blob/2c40090633ba064d1327d593451eb2f53fb77804/z19_logo.png" style="margin: 0 auto;"/>  
 </p>
 
 <p align="center">
   <img width=300px src="https://user-images.githubusercontent.com/101782376/209064997-2c5026df-b65a-4273-9b95-1fe03eb5e2e7.png"/>
+</p>
+<p align="center">
+  <img width=300px src="https://raw.githubusercontent.com/jackwang0108/jackwang0108/main/logo-2.svg"/>
 </p>
 
 
