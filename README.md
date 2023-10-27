@@ -37,13 +37,15 @@
 
 ## 👨🏻‍💻 About me
 
-**I'm a junior student majoring in CS, focusing on Deep Learning, Robotics and Operating System👨‍🎓**
+**I'm a senior student majoring in CS, focusing on Deep Learning, Robotics, Operating Systems, and RISC-V 👨‍🎓**
 - 🔭 I'm currently working on beloved works.
-- 📃 I'm currently researching on attractive fields.
+- 📃 I'm currently researching in attractive fields.
 - 🌱 I'm currently learning on interesting topics.
 - 💬 Ask me about whatever you want to ask.
 - 📫 How to reach me: reach somewhere I reach.
 - 😄 Fun facts about me are very funny.
+
+Currently, I'm about to graduate and hope to find a doctoral degree :).
 
 View my blog website to know more about me 😄: <a href="http://jackwang.cafe" target="view_window">Home</a>, <a href="http://jackwang.cafe/about/">Brief-Intro</a>
 
