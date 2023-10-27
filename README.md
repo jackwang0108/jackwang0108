@@ -1,9 +1,10 @@
-# Hi there, welcome~  I'm Shihong(Jack) Wang <img src="https://user-images.githubusercontent.com/71177584/204090535-8da76dcf-df5e-44aa-a9e4-f658f051dcff.gif" width="25px" />
+<h1 style="display: inline;"> Hi there, welcome~  I'm Shihong(Jack) Wang </h1> 
+<p align="center" style="font-size: 120%;"> Nice to meet you :) <img src="https://user-images.githubusercontent.com/71177584/204090535-8da76dcf-df5e-44aa-a9e4-f658f051dcff.gif" width="18px" /> 
+</p>
 <p align="center">
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=3000&pause=1000&color=DA8082DC&background=61B24F00&center=true&vCenter=true&width=435&lines=Shihong+Wang+%2F+Jack+Wang" alt="Typing SVG" />
 </p>
-
 
 
 
